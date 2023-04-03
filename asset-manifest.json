@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/memory-game/static/js/main.6051fb70.js",
+    "static/js/489.db968de6.chunk.js": "/memory-game/static/js/489.db968de6.chunk.js",
+    "index.html": "/memory-game/index.html",
+    "main.6051fb70.js.map": "/memory-game/static/js/main.6051fb70.js.map",
+    "489.db968de6.chunk.js.map": "/memory-game/static/js/489.db968de6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.6051fb70.js"
+  ]
+}
